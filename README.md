@@ -1,5 +1,5 @@
 <div align='center'>
-    <img src="./images/head.png" alt="alt text" width="100%">
+    <img src="./images/head.png" alt="alt text" width="50%">
     <h1>RecSys-Handbook</h1>
 </div>
 

@@ -1,6 +1,6 @@
 <div align='center'>
     <img src="./images/head.jpg" alt="alt text" width="100%">
-    <h1>Happy-LLM</h1>
+    <h1>RecSys-Handbook</h1>
 </div>
 
 
